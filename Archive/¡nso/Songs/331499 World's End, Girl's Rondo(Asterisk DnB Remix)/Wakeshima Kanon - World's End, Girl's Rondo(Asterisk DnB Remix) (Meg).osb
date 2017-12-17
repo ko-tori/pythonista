@@ -1,0 +1,87 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"SB/black.jpg",320,240
+ S,0,90764,,1.079175
+ F,0,90764,92135,0,1
+ F,0,92135,93164,1
+ F,0,93164,93507,1,0
+Sprite,Foreground,Centre,"SB/glay.jpg",320,240
+ S,0,93164,,0.8020627
+ F,0,93164,93507,0,1
+ F,0,93507,,1
+ F,0,93507,115450,1
+Sprite,Foreground,Centre,"SB/white.jpg",320,240
+ F,0,92821,93164,0,1
+ S,0,93164,,1.079175
+ F,0,93164,93507,1,0
+ F,0,93507,114078,0
+ M,0,114078,,320,240
+ F,0,114078,115450,0,1
+ F,0,115450,115535,1,0
+Sprite,Foreground,Centre,"SB/black.jpg",320,240
+ F,0,0,10535,1,0.4631736
+ F,0,10535,11221,0.4631736,0
+Sprite,Foreground,Centre,"SB/white.jpg",320,240
+ F,0,164,250,0,0.4338969
+ F,0,250,335,0.4338969,0
+Sprite,Foreground,Centre,"SB/white.jpg",320,240
+ F,0,2907,2993,0,0.4338969
+ F,0,2993,3078,0.4338969,0
+Sprite,Foreground,Centre,"SB/white.jpg",320,240
+ F,0,5650,5736,0,0.4338969
+ F,0,5736,5821,0.4338969,0
+Sprite,Foreground,Centre,"SB/white.jpg",320,240
+ F,0,8392,8478,0,0.4338969
+ F,0,8478,8563,0.4338969,0
+Sprite,Foreground,Centre,"SB/white.jpg",320,240
+ F,0,9764,9850,0,0.4338969
+ F,0,9850,9935,0.4338969,0.3621435
+ F,0,9935,,0
+Sprite,Foreground,Centre,"SB/white.jpg",320,240
+ F,0,10535,,0.3333333,0
+ F,0,10535,11221,0,1
+Sprite,Foreground,Centre,"SB/black.jpg",320,240
+ F,0,186592,186764,0,1
+ F,0,186764,187107,1,0.9854651
+ F,0,187107,187792,0.9854651,1
+ F,0,187792,188135,1,0
+Sprite,Foreground,Centre,"SB/white.jpg",320,240
+ F,0,187021,187107,0,0.4338969
+ F,0,187107,187192,0.4338969,0
+Sprite,Foreground,Centre,"SB/white.jpg",320,240
+ F,0,187364,187450,0,0.4338969
+ F,0,187450,187535,0.4338969,0
+Sprite,Foreground,Centre,"SB/white.jpg",320,240
+ F,0,187364,187450,0,0.4338969
+ F,0,187450,187535,0.4338969,0
+Sprite,Foreground,Centre,"SB/black.jpg",320,240
+ S,0,273164,,1.079175
+ F,0,273164,274535,0,1
+ F,0,274535,275564,1
+ F,0,275564,275907,1,0
+Sprite,Foreground,Centre,"SB/glay.jpg",320,240
+ S,0,275564,,0.8020627
+ F,0,275564,275907,0,1
+ F,0,275907,,1
+ F,0,275907,297850,1
+Sprite,Foreground,Centre,"SB/white.jpg",320,240
+ F,0,275221,275564,0,1
+ S,0,275564,,1.079175
+ F,0,275564,275907,1,0
+ F,0,275907,296478,0
+ M,0,296478,,320,240
+ F,0,296478,297850,0,1
+ F,0,297850,297935,1,0
+Sprite,Foreground,Centre,"SB/black.jpg",320,240
+ M,0,330764,,320,240
+ F,0,330764,341392,0,0.6081349
+ F,0,341392,341650,0.6081349,1
+ F,0,341650,348108,1
+Sprite,Foreground,Centre,"SB/white.jpg",320,240
+ F,0,187964,188050,0,0.4338969
+ F,0,188050,188135,0.4338969,0
+//Storyboard Sound Samples
